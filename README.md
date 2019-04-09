@@ -1,16 +1,7 @@
-# flutter_local_notification
+# flutter local notification quick demo
 
-A new Flutter application.
+It's a quick & simple demo of flutter local notification for Android project. For more in depth information please chekcout original plugin doc from reference section.
 
-## Getting Started
+## Reference
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+- [flutter local notification plugin](https://pub.dartlang.org/packages/flutter_local_notifications)
